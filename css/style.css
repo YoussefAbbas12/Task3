@@ -474,6 +474,10 @@ header{
     height: 20px;
 }
 
+.space{
+    margin-left: 5px;
+}
+
 .nextt{
     width: 319px;
     height: 40px;
